@@ -4,7 +4,7 @@ Hackathon de fabricación digital de diseño y producción de circuitos electró
 
 En este hackathon aprenderedemos a diseñar nuestras PCB con el software libre KiCad, partiendo del esquema al diseño del ciruito para componentes THD y SMD.
 
-Una vez que tenemos el PCB diseñado, veremos com generar los ficheros para crear nuestras placas, los ficheros Geber para enviar a fabricar, o SVG para fabricar en local con una CNC.
+Una vez que tenemos el PCB diseñado, veremos como generar los ficheros para crear nuestras placas, los ficheros Gerbers para enviar a fabricar, o SVG para fabricar en local con una CNC.
 
 Usando Gimp generaremos los PNG necesarios para fresarlo en la PCB, o los negativos para hacer la PCB con otros medios.
 
@@ -20,7 +20,7 @@ Al final del día cada participante tendrá la habilidad de crear sus propias PC
 
 Cada alumno puede traer su ordenador PC/Mac/Linux con el siguiente software instalado:
 
-KiCad https://www.kicad.org
+KiCad 6.x https://www.kicad.org
 
 Gimp http://www.gimp.org.es/descargar-gimp.html
 
