@@ -26,7 +26,7 @@ GSender https://sienci.com/gsender/
 
 Arduino https://www.arduino.cc/en/software
 
-Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos.
+Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos y USB con el software.
 
 # Recursos online
 
