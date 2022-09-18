@@ -36,3 +36,5 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
+#### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
+
