@@ -29,3 +29,12 @@ GSender https://sienci.com/gsender/
 Arduino https://www.arduino.cc/en/software
 
 Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos.
+
+# Recursos online
+
+Fab electronics component library for KiCad https://gitlab.fabcloud.org/pub/libraries/electronics/kicad
+
+Mods Project http://modsproject.org
+
+ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
+
