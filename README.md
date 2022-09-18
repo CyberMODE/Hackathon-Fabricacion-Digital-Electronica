@@ -15,3 +15,14 @@ Una vez tengamos la CNC aprenderemos a soldar componentes SMD, usando las PCB qu
 Una vez soldada la placa y revisada que este todo correctamente pasaremos a programar el microcontrolador mediante Arduino.
 
 Al final del día cada participante tendrá la habilidad de crear sus propias PCB y programar sus microcontroladores, un punto de partida para hacer prototipos funcionales a bajo coste.
+
+# Equipo necesario
+
+Cada alumno puede traer su ordenador PC/Mac/Linux con el siguiente software instalado:
+
+KiCad https://www.kicad.org
+Gimp http://www.gimp.org.es/descargar-gimp.html
+GSender https://sienci.com/gsender/
+Arduino https://www.arduino.cc/en/software
+
+Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos.
