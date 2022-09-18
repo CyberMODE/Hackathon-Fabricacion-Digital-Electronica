@@ -1,6 +1,4 @@
-# Hackahton-Fabricacion-Digital-Electronica
-
-Hackathon de fabricación digital de diseño y producción de circuitos electrónicos
+# Hackathón de fabricación digital de diseño y producción de circuitos electrónicos
 
 En este hackathon aprenderedemos a diseñar nuestras PCB con el software libre KiCad, partiendo del esquema al diseño del ciruito para componentes THD y SMD.
 
