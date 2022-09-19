@@ -39,12 +39,11 @@ Placa de Circuito de PCB **FR1**
 
 | Componente | Unidades | Código | Tienda |
 | ----- | ---- | ---- | ---- |
-| ATtiny412 | 1 | ATTINY412-SSF-ND | [http://www.digikey.es](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) |
-| Componente | Unidades | Código |  |
-| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
-| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
-| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
-| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+| ATtiny412 | 1 | ATTINY412-SSF-ND | [Digikey](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) |
+| Cap 10 uF | 1 | Código |  |
+| Res 499 Ohms | 1 | Código | Digikey |
+| LED RED | 1 | [Código](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) |
+| PinHeader_1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) |
 
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
