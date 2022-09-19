@@ -35,7 +35,9 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
 # Lista de materiales BOM
 
-Placas de Circuito de PCB **FR1**
+- Placas de Circuito de PCB **FR1**
+- Fresa 0.4 End Mill
+- Fresa 0.8 End Mill
 
 | Componente | Unidades | Código | Tienda | Footprint |
 | ----- | ---- | ---- | ---- | ---- |
@@ -45,8 +47,7 @@ Placas de Circuito de PCB **FR1**
 | LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | LED_1206 |
 | Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
 
-Fresa 0.4 End Mill
-Freso 0.8 End Mill
+
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
