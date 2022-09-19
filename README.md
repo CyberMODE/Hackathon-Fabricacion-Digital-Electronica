@@ -37,5 +37,8 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
 Placa de Circuito de PCB **FR1**
 
+| Componente | Unidades | Código | Tienda |
+| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
