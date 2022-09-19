@@ -26,7 +26,7 @@ GSender https://sienci.com/gsender/
 
 Arduino https://www.arduino.cc/en/software
 
-Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos y USB´s con el software.
+Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos y memoría USB´s con el instalador del software.
 
 # Recursos online
 
@@ -35,6 +35,10 @@ Fab electronics component library for KiCad https://gitlab.fabcloud.org/pub/libr
 Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
+
+# Bom Materiales
+
+Placa de Circuito de PCB FR1
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
