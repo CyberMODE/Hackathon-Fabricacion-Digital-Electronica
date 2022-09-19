@@ -18,13 +18,10 @@ Al final del día cada participante tendrá la habilidad de crear sus propias PC
 
 Cada alumno puede traer su ordenador PC/Mac/Linux con el siguiente software instalado:
 
-KiCad 6.x https://www.kicad.org
-
-Gimp http://www.gimp.org.es/descargar-gimp.html
-
-GSender https://sienci.com/gsender/
-
-Arduino https://www.arduino.cc/en/software
+- KiCad 6.x https://www.kicad.org
+- Gimp http://www.gimp.org.es/descargar-gimp.html
+- GSender https://sienci.com/gsender/
+- Arduino https://www.arduino.cc/en/software
 
 Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos y memoría USB´s con el instalador del software.
 
