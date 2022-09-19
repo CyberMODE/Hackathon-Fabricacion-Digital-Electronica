@@ -40,9 +40,9 @@ Placa de Circuito de PCB **FR1**
 | Componente | Unidades | Código | Tienda |
 | ----- | ---- | ---- | ---- |
 | ATtiny412 | 1 | ATTINY412-SSF-ND | [Digikey](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) |
-| Cap 10 uF | 1 | Código |  |
-| Res 499 Ohms | 1 | Código | Digikey |
-| LED RED | 1 | [Código](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) |
+| Cap 10 uF | 1 | GRT31CC8YA106ME01L | [Digikey](https://www.digikey.es/en/products/detail/murata-electronics/GRT31CC8YA106ME01L/5416847) |
+| Res 499 Ohms | 1 | RC1206FR-07499RL | [Digikey](https://www.digikey.es/en/products/detail/yageo/RC1206FR-07499RL/728944) |
+| LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) |
 | PinHeader_1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) |
 
 
