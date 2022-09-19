@@ -39,7 +39,13 @@ Placa de Circuito de PCB **FR1**
 
 | Componente | Unidades | Código | Tienda |
 | ----- | ---- | ---- | ---- |
+| ATtiny412 | 1 | ATTINY412-SSF-ND | [http://www.digikey.es](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) |
+| Componente | Unidades | Código |  |
 | Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+| Componente | Unidades | Código | [Digikey](http://www.digikey.es) |
+
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
