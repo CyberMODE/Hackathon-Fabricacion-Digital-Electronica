@@ -36,8 +36,8 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 # Lista de materiales BOM
 
 - Placas de Circuito de PCB **FR1**
-- Fresa 0.4 End Mill
-- Fresa 0.8 End Mill
+- Fresa 0.4 End Mill -> 1/32 -> 0,4 MM -> TRACES
+- Fresa 0.8 End Mill -> 1/64 -> 0,8 MM -> CUT
 
 | Componente | Unidades | Código | Tienda | Footprint |
 | ----- | ---- | ---- | ---- | ---- |
