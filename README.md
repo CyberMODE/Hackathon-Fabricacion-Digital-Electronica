@@ -36,7 +36,7 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
-# Bom Materiales
+# Lista de materiales BOM
 
 Placa de Circuito de PCB FR1
 
