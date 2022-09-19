@@ -1,29 +1,29 @@
-# Hackathón de fabricación digital de diseño y producción de circuitos electrónicos
+# Hackathón de fabricación dixital de deseño e produción de circuítos electrónicos
 
-En este hackathon aprenderedemos a diseñar nuestras PCB con el software libre KiCad, partiendo del esquema al diseño del ciruito para componentes THD y SMD.
+Neste hackathón aprenderedemos a deseñar as nosas PCB co software libre KiCad, partindo do esquema ao deseño do ciruito para compoñentes THD e SMD.
 
-Una vez que tenemos el PCB diseñado, veremos como generar los ficheros para crear nuestras placas, los ficheros Gerbers para enviar a fabricar, o SVG para fabricar en local con una CNC.
+Unha vez que temos o PCB deseñado, veremos como xerar os ficheiros para crear as nosas placas, os ficheiros Gerbers para enviar a fabricar, ou SVG para fabricar en local cunha CNC.
 
-Usando Gimp generaremos los PNG necesarios para fresarlo en la PCB, o los negativos para hacer la PCB con otros medios.
+Usando Gimp xeraremos os PNG necesarios para fresarlo na PCB, ou os negativos para facer a PCB con outros medios.
 
-El ejercicio que haremos es una pequeña PCB para alojar un microcontrolador Attiny412 que encienda y apague un LED.
+O exercicio que faremos é unha pequena PCB para aloxar un microcontrolador ATtiny412 que acenda e apague un LED.
 
-Una vez tengamos la CNC aprenderemos a soldar componentes SMD, usando las PCB que hemos creado y los componentes que serán proporcionados a cada participante del Hackathon.
+Unha vez teñamos a PCB fresada, aprenderemos a soldar compoñentes SMD, usando nosas PCB e os compoñentes que serán proporcionados a cada participante do Hackathon.
 
-Una vez soldada la placa y revisada que este todo correctamente pasaremos a programar el microcontrolador mediante Arduino.
+Unha vez soldada a placa e revisada que este todo correctamente pasaremos a programar o microcontrolador mediante Arduino.
 
-Al final del día cada participante tendrá la habilidad de crear sus propias PCB y programar sus microcontroladores, un punto de partida para hacer prototipos funcionales a bajo coste.
+Ao final do día cada participante terá a habilidade de crear as súas propias PCB e programar as súas microcontroladores, un punto de partida para facer prototipos funcionais a baixo custo.
 
 # Equipo necesario
 
-Cada alumno puede traer su ordenador PC/Mac/Linux con el siguiente software instalado:
+Cada alumno debe traer o seu computador PC/Mac/Linux co seguinte software instalado:
 
 - KiCad 6.x https://www.kicad.org
 - Gimp http://www.gimp.org.es/descargar-gimp.html
 - GSender https://sienci.com/gsender/
 - Arduino https://www.arduino.cc/en/software
 
-Se proporcionará en caso de no tenerlo instalado acceso a internet para descargarlos y memoría USB´s con el instalador del software.
+Proporcionarase en caso de non telo instalado acceso a internet para descargalos e memoría USB´s co instalador do software.
 
 # Recursos online
 
@@ -33,13 +33,13 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
-# Lista de materiales BOM
+# Lista de materiais BOM
 
 - Placas de Circuito de PCB **FR1**
 - Fresa 0.4 End Mill -> 1/32 -> 0,4 MM -> TRACES
 - Fresa 0.8 End Mill -> 1/64 -> 0,8 MM -> CUT
 
-| Componente | Unidades | Código | Tienda | Footprint |
+| Compoñente | Unidades | Código | Tenda | Footprint |
 | ----- | ---- | ---- | ---- | ---- |
 | ATtiny412 | 1 | ATTINY412-SSF-ND | [Digikey](https://www.digikey.es/en/products/detail/microchip-technology/ATTINY412-SSF/9947539) | SOIC-8_3.9x4.9mm_P1.27mm |
 | Cap 10 uF | 1 | GRT31CC8YA106ME01L | [Digikey](https://www.digikey.es/en/products/detail/murata-electronics/GRT31CC8YA106ME01L/5416847) | C_1206 |
