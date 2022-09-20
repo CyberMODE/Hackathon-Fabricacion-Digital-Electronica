@@ -47,7 +47,7 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 | LED RED | 1 | 1516-1076-1-ND  | [Digikey](https://www.digikey.es/es/products/detail/qt-brightek-qtb/QBLP615-R/4814674) | LED_1206 |
 | Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
 
-
+![ATtiny 412 pinout](https://github.com/CyberMODE/Hackathon-Fabricacion-Digital-Electronica/blob/main/images/ATtiny412-pinout.jpg)
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
