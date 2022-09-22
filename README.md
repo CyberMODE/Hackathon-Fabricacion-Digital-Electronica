@@ -33,7 +33,7 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
-[Fab Academy](https://fabacademy.org) - [Amigus Labs](https://www.amiguslabs.org) - [A Industriosa](https://aindustriosa.org)
+
 
 # Lista de materiais BOM
 
@@ -50,6 +50,13 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 | Connector 1x03_P2.54mm_Horizontal | 3 | S1143E-36-ND  | [Digikey](https://www.digikey.es/es/products/detail/sullins-connector-solutions/GBC36SGSN-M89/862355) | PinHeader_1x03_P2.54mm_Horizontal_SMD |
 
 ![ATtiny 412 pinout](https://github.com/CyberMODE/Hackathon-Fabricacion-Digital-Electronica/blob/main/images/ATtiny412-pinout.jpg)
+
+# Otros enlaces
+
+- [Fab Academy](https://fabacademy.org)
+- [Amigus Labs](https://www.amiguslabs.org)
+- [A Industriosa](https://aindustriosa.org)
+- [Mancomun](https://www.mancomun.gal/es/)
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
 
