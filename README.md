@@ -33,6 +33,8 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
+[Fab Academy](https://fabacademy.org) - [Amigus Labs](https://www.amiguslabs.org) - [A Industriosa](https://aindustriosa.org)
+
 # Lista de materiais BOM
 
 - Placas de Circuito de PCB **FR1**
@@ -50,4 +52,6 @@ ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 ![ATtiny 412 pinout](https://github.com/CyberMODE/Hackathon-Fabricacion-Digital-Electronica/blob/main/images/ATtiny412-pinout.jpg)
 
 #### Evento patrocinado por Xunta de Galicia e Amtega Axencia para a Modernización Tecnolóxica
+
+
 
