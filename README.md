@@ -33,7 +33,7 @@ Mods Project http://modsproject.org
 
 ATtiny library for Arduino IDE http://drazzy.com/package_drazzy.com_index.json
 
-
+FTDI Drivers https://ftdichip.com/drivers/vcp-drivers/
 
 # Lista de materiais BOM
 
