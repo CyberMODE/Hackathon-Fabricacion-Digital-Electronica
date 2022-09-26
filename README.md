@@ -51,6 +51,10 @@ FTDI Drivers https://ftdichip.com/drivers/vcp-drivers/
 
 ![ATtiny 412 pinout](https://github.com/CyberMODE/Hackathon-Fabricacion-Digital-Electronica/blob/main/images/ATtiny412-pinout.jpg)
 
+# Solar SMD
+
+![Diode led test](https://github.com/CyberMODE/Hackathon-Fabricacion-Digital-Electronica/blob/main/images/diode_led_test.jpg)
+
 # Otros enlaces
 
 - [Fab Academy](https://fabacademy.org)
