@@ -38,8 +38,8 @@ FTDI Drivers https://ftdichip.com/drivers/vcp-drivers/
 # Lista de materiais BOM
 
 - Placas de Circuito de PCB **FR1**
-- Fresa 0.4 End Mill -> 1/32 -> 0,4 MM -> TRACES [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp]
-- Fresa 0.8 End Mill -> 1/64 -> 0,8 MM -> CUT [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp]
+- Fresa 0.4 End Mill -> 1/32 -> 0,4 MM -> TRACES [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp)
+- Fresa 0.8 End Mill -> 1/64 -> 0,8 MM -> CUT [Aliexpress](https://es.aliexpress.com/item/32914096470.html?spm=a2g0o.order_list.0.0.19bb194dGODsyC&gatewayAdapt=glo2esp)
 
 | Compoñente | Unidades | Código | Tenda | Footprint |
 | ----- | ---- | ---- | ---- | ---- |
